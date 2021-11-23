@@ -1,0 +1,18 @@
+{
+    "transactions":[
+        {
+          "name": "Security A",
+          "date": "2019/06/20",
+          "shares": 885.03,
+          "price": 14.01,
+          "amount": 12222223,
+          "last_transaction": {
+            "type": "buy",
+            "date": "2019/06/20",
+            "shares": 885.03,
+            "price": 14.01,
+            "amount": 12222223
+          }
+        }
+      ]
+}

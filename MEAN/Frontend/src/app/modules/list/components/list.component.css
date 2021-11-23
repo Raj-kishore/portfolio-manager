@@ -1,0 +1,45 @@
+.table-search-field {
+  width: 30vw;
+}
+
+table {
+  width: 95vw;
+  margin: auto;
+  padding-bottom: 1vw;
+}
+
+.mat-form-field {
+  display: inline-block;
+  position: relative;
+  text-align: left;
+  margin: 2vw 0 2vw 4vw;
+}
+
+::ng-deep .mat-form-field-appearance-fill .mat-form-field-flex {
+  background: none !important;
+}
+
+::ng-deep th.mat-header-cell:last-of-type,
+td.mat-cell:last-of-type,
+td.mat-footer-cell:last-of-type {
+  padding-right: 0 !important;
+}
+
+::ng-deep th.mat-header-cell:first-of-type,
+td.mat-cell:first-of-type,
+td.mat-footer-cell:first-of-type {
+  padding-left: 0 !important;
+}
+
+::ng-deep .mat-elevation-z8 {
+
+  padding: 0 2vw;
+}
+
+.mat-row:hover {
+  background-color: #f5f6fa;
+}
+
+.mat-column-last_modified {
+  text-align: right;
+}
