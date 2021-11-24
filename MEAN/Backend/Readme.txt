@@ -1,6 +1,9 @@
 To start the app, 
 
 nodemon
-or nodemon app.js
+or nodemon server.js
 or npm start
-or node app.js
+or node server.js
+
+//jest 
+npm test
